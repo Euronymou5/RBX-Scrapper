@@ -1,0 +1,4 @@
+requests
+pytest-playwright
+fake_useragent
+rich
