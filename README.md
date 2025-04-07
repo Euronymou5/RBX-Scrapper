@@ -3,6 +3,8 @@ RBX-Scraper es una herramienta que obtiene información de un perfil de roblox p
 
 Este script utiliza [Playwright](https://playwright.dev/) para automatizar el proceso de extracción de los datos de la web. En este caso, al extraer información de un perfil en concreto.
 
+También se utiliza el api de roblox, para recabar datos como la descripción del usuario y su fecha de registro.
+
 ## Instalacion
 
 > Clonar repositorio.
